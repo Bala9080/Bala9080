@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **React JS & Core Java**
 
 - 📫 How to reach me **balamurugan.r9080@gmail.com**
 
